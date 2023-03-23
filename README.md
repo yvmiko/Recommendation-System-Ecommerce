@@ -1,4 +1,4 @@
-# Recommendation-System-Ecommerce
+# Recommendation-System-Ecommerce.
 
 E-commerce companies use recommendation systems to provide personalized product or service suggestions to customers in order to improve their shopping experience and increase sales. These systems use data on customer behavior, such as previous purchases and browsing history, to make recommendations based on their individual preferences and interests.
 
